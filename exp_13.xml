@@ -1,20 +1,16 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Exp13-1.xsl"?>
 
-<?xml-stylesheet type="text/xsl" href="student.xsl"?>
-
-<class>
+<students>
     <student>
         <name>Rahul</name>
-        <marks>85</marks>
+        <age>20</age>
+        <course>Computer Science</course>
     </student>
 
     <student>
-        <name>Amit</name>
-        <marks>60</marks>
+        <name>Anita</name>
+        <age>22</age>
+        <course>Information Technology</course>
     </student>
-
-    <student>
-        <name>Riya</name>
-        <marks>40</marks>
-    </student>
-</class>
+</students>
